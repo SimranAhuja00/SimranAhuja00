@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an **E-commerce app**
 
-- 🌱 I’m currently learning **Django and ML**
+- 🌱 I’m currently learning **Django, ML and Next.js**
+  
 
 
 <h3 align="left">Connect with me:</h3>
